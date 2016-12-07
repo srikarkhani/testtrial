@@ -13,7 +13,7 @@ applications:
     cache_tif_core_property_secs: "900"
     rabbitmq_cqrs_exchange_name: "covisint.cqrs.events.blue"
     rabbitmq_cqrs_username: "cqrs-admin"
-    rabbitmq_cqrs_idsync_queue_name: "covisint.cqrs.events.idsync.blue.done"
+    rabbitmq_cqrs_idsync_queue_name: "covisint.cqrs.events.idsync.blue"
     rabbitmq_cqrs_password: "cqrs1234"
     authn_baseServiceUrl: "http://authn-4-blue.private.covapp.io"
     destination_baseServiceUrl: "http://router-1-blue.private.covapp.io"
