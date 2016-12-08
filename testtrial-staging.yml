@@ -9,7 +9,7 @@ applications:
   services:
   - logstash-drain
   env:
-    apiregistrations_baseServiceUrl: "http://localhoststt11111111111"
+    apiregistrations_baseServiceUrl: "http://localhoststt122222222222222"
     cache_tif_core_property_secs: "900"
     rabbitmq_cqrs_exchange_name: "covisint.cqrs.events.blue"
     rabbitmq_cqrs_username: "cqrs-admin"
